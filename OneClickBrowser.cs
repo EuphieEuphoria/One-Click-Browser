@@ -14,7 +14,7 @@ public class OneClickBrowser : ResoniteMod
     public override string Name => "One Click Browser";
     public override string Author => "EuphieEuphoria";
     public override string Version => "0.0.1";
-    public override string Link => "resonite.com";
+    public override string Link => "https://github.com/EuphieEuphoria/One-Click-Browser";
     public static ModConfiguration? Config;
 
     [AutoRegisterConfigKey]
